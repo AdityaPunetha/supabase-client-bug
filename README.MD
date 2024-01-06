@@ -18,5 +18,5 @@ Go to http://localhost:8000/docs
 - It will redirect you, copy the access token and refresh from the url.
 - On the top right side of the page, click on the Authorize button and paste the access token and refresh token seperated by a space.
 - ```access_token_here refresh_token_here```
-- Then execute the protected with google endpoint and it will return "You are authorized to access this route".
+- Then execute the protected endpoint and it will return "You are authorized to access this route".
 - Now try stopping the application, it will get stuck.
